@@ -51,24 +51,17 @@ File data was extracted from network traffic using packet analysis techniques.
 
 ---
 
-## 📸 Screenshots
-
 ### SMB Traffic Capture
-
-![SMB Packets](screenshots/smb_packets.png)
+![SMB Packets](smb_packets.png)
 
 ### File Access Detection
-
-![File Access](screenshots/file_access.png)
+![File Access](file_access.png)
 
 ### TCP Stream Analysis
-
-![TCP Stream](screenshots/tcp_stream.png)
+![TCP Stream](tcp_stream.png)
 
 ### Recovered File
-
-![Recovered File](screenshots/recovered_file.png)
-
+![Recovered File](recovered_file.png)
 ---
 
 ## 💥 Result
